@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+    background-image: radial-gradient(green, black);
+    height: 100vh;
+    color: white;
+
+
+}
+
+.cards {
+    width: 80%;
+    display: flex;
+
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+
+
+
+}
+
+h1 {
+    text-align: center;
+    font-family: Quicksand;
+    font-size: 4em;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+
+}
+
+.single-card img {
+    margin: 20px;
+    width: 100px;
+    height: 150px;
+
+
+}
+
+.single-card {
+    display: flex;
+}
+
+.massage,
+.score {
+    font-size: 3em;
+    text-align: center;
+    font-family: Quicksand;
+}
+
+#mainPic {
+
+    height: 50px;
+}
+
+.dealer-cards {
+    width: 80%;
+
+
+}
